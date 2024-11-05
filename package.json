@@ -1,0 +1,14 @@
+{
+  "name": "vantpicker",
+  "version": "1.0.0",
+  "description": "基于vant的popup及picker的封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenjiam",
+  "license": "ISC",
+  "dependencies": {
+    "vant": "^4.9.8"
+  }
+}
